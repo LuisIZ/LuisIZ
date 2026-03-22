@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-My name is Luis Izaguirre, and I'm an undergradutate student of Computer Science at UTEC.
+My name is Luis Izaguirre and I am an undergradutate student of Computer Science at UTEC.
 
-- ⚡ Fun facts: My hobbies are listening to music :headphones:, photography :camera:, running :running: and playing videogames :video_game:.
+My hobbies are:
+
+- Coding 💻
+- Photography 📷
+- Running 🏃
+- Listening to music 🎧
+- Playing videogames 🎮
 
 <!--
 **LuisIZ/LuisIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
